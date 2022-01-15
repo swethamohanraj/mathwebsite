@@ -217,6 +217,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94228215/149629231-37654f2f-6000-464c-9a3a-13e8ffdaf9fa.png)
 
 
 ## Result:
